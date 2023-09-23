@@ -31,7 +31,6 @@ const Page = () => (
       <div className="gradient-04 z-0" />
       <Feedback />
     </div>
-
     <Footer />
   </div>
 );
